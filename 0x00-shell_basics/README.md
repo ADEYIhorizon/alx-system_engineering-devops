@@ -7,3 +7,4 @@ Script to display the current directory contents in long format with user and gr
 SCript to create a directory name my_first_directory in the /tmp/ directory
 Script to move the file betty from /tmp to /tmp/my_first_directory
 Command to delete file betty for /tmp/my_first_directory
+Script to delete empty directory
