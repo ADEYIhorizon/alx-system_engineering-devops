@@ -9,3 +9,4 @@ Script to move the file betty from /tmp to /tmp/my_first_directory
 Command to delete file betty for /tmp/my_first_directory
 Script to delete empty directory
 Script to change the working directory to previous one
+Command to list file in current working directory, parent directory and /boot directory
